@@ -1,6 +1,6 @@
 # 校准辅助
 
-语言: English | 简体中文
+语言: [English](https://github.com/celesteMoon/Aligner/blob/main/README.md) | [简体中文](https://github.com/celesteMoon/Aligner/blob/main/README(zh_cn).md)
 
 ## 特性
 

@@ -1,6 +1,6 @@
 # Aligner
 
-Languages: English | 简体中文
+Languages: [English](https://github.com/celesteMoon/Aligner/blob/main/README.md) | [简体中文](https://github.com/celesteMoon/Aligner/blob/main/README(zh_cn).md)
 
 ## Feature
 
