@@ -8,7 +8,7 @@ Press the `Align` key (default: `0`) and the mod will automatically teleport you
 
 ## Installation
 
-Download and put the `.jar` file into your `mods` folder, and we are ready to go! If you like to, you can change the keybindings in options.
+[Download](https://modrinth.com/mod/aligner/versions) and put the `.jar` file into your `mods` folder, and we are ready to go! If you like to, you can change the keybindings in options.
 
 ## License
 
