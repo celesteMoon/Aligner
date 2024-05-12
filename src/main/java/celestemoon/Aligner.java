@@ -17,6 +17,6 @@ public class Aligner implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("celesteMoon");
+		LOGGER.info("aligner by celesteMoon");
 	}
 }
