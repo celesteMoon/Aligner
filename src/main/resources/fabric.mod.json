@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "aligner",
-	"version": "${version}",
+	"version": "1.2.0",
 	"name": "Aligner",
 	"description": "Adds a key to align your coordinates/rotation. (needs tp permission in multiplayer)",
 	"authors": [
@@ -13,7 +13,7 @@
 	},
 	"license": "CC BY-NC-SA 4.0",
 	"icon": "assets/aligner/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
           "celestemoon.Aligner"
